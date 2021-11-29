@@ -23,9 +23,9 @@ func main() {
 	}
 
 	if temp == result {
-		fmt.Println(temp, "is a Palindrome")
+		fmt.Println(temp, " it is a Palindrome")
 	} else {
-		fmt.Println(temp, "is not a Palindrome")
+		fmt.Println(temp, " it is not a Palindrome")
 	}
 
 }
